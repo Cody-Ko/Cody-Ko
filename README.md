@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, my name is Cody Koduah Osei! I'm a new Tech Elevator student with a background in social media strategy. I'm excited to begin this journey as a software developer!
+I am currently a full-time student at Tech Elevator, an immersive 14-week bootcamp that teaches full-stack software development. Before transitioning into software development, I spent four years working in social media marketing. What always drew me to this work was the opportunity to build connections between brands and their consumers, and the ability to practice problem solving in collaboration with others. I believe that my background in social media translates well to software development as it's made me especially attuned to consumer experiences and their general thought processes when interacting with a brand or product. I love being able to build things that create connections among people and I believe a career in tech will help me do this in a more tangible and hands-on way.
+
+I have experience in Object-Oriented Programming, Client-Server Programming, and Client-Side Web Programming. I understand how to work in an Agile development environment and I'm adept at using various development tools such as Git, IntelliJ, PgAdmin, Postman, and VS Code. My hope is to work as a front-end developer and apply my strong technical and soft skills in a space that allows me to learn from the people around me.
